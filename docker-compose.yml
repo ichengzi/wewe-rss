@@ -30,7 +30,7 @@ services:
       # 数据库连接地址
       - DATABASE_URL=mysql://root:123456@db:3306/wewe-rss?schema=public&connect_timeout=30&pool_timeout=30&socket_timeout=30
       # 服务接口请求授权码
-      - AUTH_CODE=123567
+      - AUTH_CODE=9Zx#]RCL6UWKPY}XkRQz]:k9N]54ud6fxN^tM*Wa,j_V3cu>c7irw7*1Ay,kosK)?E]%eFRm_Er?9cwozREc*UJdRMRZ4ZA,vLHs
       # 提取全文内容模式
       # - FEED_MODE=fulltext
       # 定时更新订阅源Cron表达式
